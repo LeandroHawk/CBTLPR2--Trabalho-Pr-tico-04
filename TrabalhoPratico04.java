@@ -3,6 +3,7 @@ import java.awt.event.*;
 import java.sql.*;
 import java.util.ArrayList;
 
+//LEANDRO FELIX NUNES
 public class TrabalhoPratico04 extends JFrame {
     private JTextField txtNomePesquisa;
     private JLabel lblNome, lblSalario, lblCargo;
